@@ -127,5 +127,42 @@ export const data = {
         },
       ],
     },
+    {
+      seriesname: 'Profit',
+      renderAs: 'line',
+      showValues: '0',
+      data: [
+        {
+          value: '240',
+        },
+        {
+          value: '450',
+        },
+        {
+          value: '230',
+        },
+        {
+          value: '380',
+        },
+        {
+          value: '240',
+        },
+        {
+          value: '450',
+        },
+        {
+          value: '230',
+        },
+        {
+          value: '380',
+        },
+        {
+          value: '240',
+        },
+        {
+          value: '450',
+        },
+      ],
+    },
   ],
 };
