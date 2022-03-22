@@ -5,13 +5,14 @@ export const data = {
     xAxisname: 'Jaar',
     yAxisName: 'Kosten',
     numberPrefix: '€',
-    theme: 'essent',
+    theme: 'fusion',
     numVisiblePlot: '5',
     scrollheight: '10',
     flatScrollBars: '1',
     scrollShowButtons: '0',
     scrollColor: '#cccccc',
     showHoverEffect: 1,
+    paletteColors: '#e60167, #FFBB33, #99CC00, #33B5E5, #AA66CC',
   },
   categories: [
     {
